@@ -71,6 +71,14 @@
 
 - **발표 자료:** [Wi-Fi 기반 실내 측위를 활용한 도서관 서비스 로봇](https://han-skyler.github.io/portfolio_first/pjt3.html)
 - **어플리케이션 GitHub:** [Library-Kiosk](https://github.com/han-skyler/Library-Kiosk)
+  
+## 🎥 시연 영상
+<p align="center">
+  <a href="https://youtu.be/eDDXe_ldHic">
+    <img src="https://img.youtube.com/vi/eDDXe_ldHic/0.jpg" width="600" alt="시연 영상 썸네일"/>
+  </a>
+</p>
+
 
 ## 📝 라이선스
 
